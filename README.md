@@ -23,5 +23,7 @@ Este proyecto no está desplegado en GitHub Pages. Sin embargo, puedes explorar 
 
 [Single Page](https://wartu95.github.io/Singlepage-cv/)
 
+https://roadmap.sh/projects/single-page-cv
+
 ## Contribuciones
 Las contribuciones son bienvenidas. Siéntete libre de abrir un issue o enviar un pull request si deseas mejorar este proyecto.
