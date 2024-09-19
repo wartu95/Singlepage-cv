@@ -21,7 +21,7 @@ Abre el archivo index.html en tu navegador preferido para visualizar el currícu
 Ver el código en GitHub
 Este proyecto no está desplegado en GitHub Pages. Sin embargo, puedes explorar el código fuente directamente en GitHub:
 
-[Ver código en GitHub](https://github.com/wartu95/Roadmap-sh/tree/06fbb22626fb97438ca3cd86e0a6d51411c0066e/Frontend/Single-Page%20CV)
+[Single Page](https://wartu95.github.io/Singlepage-cv/)
 
 ## Contribuciones
 Las contribuciones son bienvenidas. Siéntete libre de abrir un issue o enviar un pull request si deseas mejorar este proyecto.
